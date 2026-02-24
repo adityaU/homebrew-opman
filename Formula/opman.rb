@@ -10,7 +10,7 @@ class Opman < Formula
   depends_on :macos
 
   def install
-    bin.install "opencode-manager" => "opman"
+    bin.install "opman"
   end
 
   test do
