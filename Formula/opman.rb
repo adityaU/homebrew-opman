@@ -1,9 +1,9 @@
 class Opman < Formula
   desc "Terminal multiplexer wrapper for the opencode CLI -- multi-project management"
   homepage "https://github.com/adityaU/opman"
-  version "0.5.7"
-  url "https://github.com/adityaU/opman/releases/download/v0.5.7/opman-aarch64-apple-darwin.tar.gz"
-  sha256 "b79e750d3bc976afaf072b8cd6a1cbd862c3b1051909a86604872cf05085a388"
+  version "0.5.8"
+  url "https://github.com/adityaU/opman/releases/download/v0.5.8/opman-aarch64-apple-darwin.tar.gz"
+  sha256 "2080b30cccc735883b6ded778525526305c389c6bdb9a4250ae541d9de5c4056"
   license "MIT"
 
   depends_on arch: :arm64
