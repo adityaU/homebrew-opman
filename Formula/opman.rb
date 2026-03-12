@@ -3,7 +3,7 @@ class Opman < Formula
   homepage "https://github.com/adityaU/opman"
   version "0.6.7"
   url "https://github.com/adityaU/opman/releases/download/v0.6.7/opman-aarch64-apple-darwin.tar.gz"
-  sha256 "e6a2308bbafc0fd943ff2b4d59335b86e5e7f8441c21d087b164169d3bcebf68"
+  sha256 "36708268c2e906d39f3b36dcbe1860b6ab007ddbce3234bfd0ab35e95738d6fc"
   license "MIT"
 
   depends_on arch: :arm64
